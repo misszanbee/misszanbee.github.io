@@ -1,0 +1,73 @@
+body{
+font-family:sans-serif;
+color:gray;
+}
+header{
+	text-align: center;
+	background: pink;
+}
+#about{
+	background: #FFCA59;
+}
+body{
+	margin: 0px;
+}
+.stacked{
+	padding: 10px;
+}
+.contact {
+background: url(images/dark_embroidery.png);
+background-position: bottom center;
+}
+.contact img{
+	width:100px;
+	margin: 10px;
+}
+.contact img{
+	border-radius:50%;
+	border:none;
+}
+header {
+background: url(images/background-small.jpg);
+}
+header {
+background-size: cover;
+}
+header {
+background: url(images/background.jpg);
+background-attachment: fixed;
+}
+header img {
+border: 3px solid #fff;
+border-radius: 50%;
+padding: 10px;
+}
+.contact img:hover {
+opacity: 0.5;
+}
+ul.websites {
+padding: 0;
+}
+ul.websites li {
+list-style: none;
+display: inline-block;
+}
+
+.websites a {
+background: #38A88F;
+padding: 10px 20px;
+color: #fff;
+text-decoration: none;
+border-radius: 5px;
+font-size: 24px;
+display: block;
+}
+.websites a:hover {
+background: #666;
+}
+p, ul, ol {
+line-height: 1.5;
+}
+ul.websites li {
+margin-bottom: 5px;
+}
